@@ -1,2 +1,2 @@
 # print-scheduler
-SImple CLI 3D Printer Scheduler
+Very simple CLI 3D Printer Scheduler
