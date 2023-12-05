@@ -1,0 +1,285 @@
+;Rothicite
+player.additem 28DF 10
+;Lead 
+player.additem 5568 10
+;Dysprosium
+player.additem 5569 10
+;Silver 
+player.additem 556A 10
+;Tungsten 
+player.additem 556B 10
+;Titanium 
+player.additem 556D 10
+;Iron 
+player.additem 556E 10
+;Tantalum 
+player.additem 556F 10
+;Alkanes 
+player.additem 5570 10
+;Ytterbium
+player.additem 5571 10
+;Nickel 
+player.additem 5572 10
+;Platinum 
+player.additem 5573 10
+;Palladium 
+player.additem 5574 10
+;Cobalt 
+player.additem 5575 10
+;Copper 
+player.additem 5576 10
+;Fluorine 
+player.additem 5577 10
+;Tetrafluorides 
+player.additem 5578 10
+;Gold
+player.additem 5579 10
+;Ionic Liquids 
+player.additem 557A 10
+;Antimony 
+player.additem 557B 10
+;Chlorine
+player.additem 557C 10
+;Aluminum 
+player.additem 557D 10
+;Chlorosilanes 
+player.additem 557E 10
+;Lithium
+player.additem 557F 10
+;Neodymium 
+player.additem 5580 10
+;Benzene 
+player.additem 5585 10
+;Carboxylic Acids 
+player.additem 5586 10
+;Neon 
+player.additem 5587 10
+;Argon 
+player.additem 5588 10
+;Uranium 
+player.additem 5589 10
+;Iridium 
+player.additem 558A 10
+;Vanadium 
+player.additem 558B 10
+;Plutonium
+player.additem 558C 10
+;Helium-3 
+player.additem 558E 10
+;Water
+player.additem 5591 10
+;Memory Substrate
+player.additem 559B 10
+;Luxury Textile 
+player.additem 559E 10
+;Polymer 
+player.additem 55A6 10
+;Ornamental Material 
+player.additem 55A7 10
+;Cosmetic 
+player.additem 55A8 10
+;Analgesic 
+player.additem 55A9 10
+;High-Tensile Spidroin 
+player.additem 55AA 10
+;Antimicrobial 
+player.additem 55AB 10
+;Spice 
+player.additem 55AC 10
+;Sedative 
+player.additem 55AD 10
+;Stimulant
+player.additem 55AE 10
+;Fiber 
+player.additem 55AF 10
+;Membrane 
+player.additem 55B0 10
+;Adhesive 
+player.additem 55B1 10
+;Biosupressant 
+player.additem 55B2 10
+;Immunostimulant
+player.additem 55B3 10
+;Aromatic 
+player.additem 55B8 10
+;Structural Material 
+player.additem 55B9 10
+;Lubricant 
+player.additem 55BA 10
+;Toxin 
+player.additem 55CB 10
+;Sealant 
+player.additem 55CC 10
+;Amino Acids 
+player.additem 55CD 10
+;Solvent 
+player.additem 55CE 10
+;Beryllium 
+player.additem 57D9 10
+;Xenon
+player.additem 57DD 10
+;Caesium 
+player.additem 57DF 10
+;Europium 
+player.additem 57E1 10
+;Aldumite
+player.additem 5DEC 10
+;Tasine
+player.additem 5DED 10
+;Veryl 
+player.additem 5DEE 10
+;Vytinium
+player.additem 5DEF 10
+;Med Pack
+player.additem ABF9 10
+;Red Meat
+player.additem 304D0 10
+;Indicite
+player.additem 4BA37 10
+;Nutrient 
+player.additem 777FD 10
+;Caelumite 
+player.additem 788D6 10
+;Alien Genetic Material
+player.additem C1F57 10
+;Black Hole Heart
+player.additem 122EA8 10
+;Subgiant Heart
+player.additem 122EB1 10
+;Dwarf Star Heart
+player.additem 122EB6 10
+;Whiteout
+player.additem 143CB2 10
+;Cheese
+player.additem 1FC9C1 10
+;Substrate Molecule Sieve 
+player.additem 202782 10
+;Aldumite Drilling Rig 
+player.additem 202F5A 10
+;Tasine Superconductors
+player.additem 203EAF 10
+;Rothicite Magnet
+player.additem 203EB2 10
+;Vytinium Fuel Rod
+player.additem 203EB3 10
+;Drilling Rig 
+player.additem 20A02F 10
+;Indicite Wafer 
+player.additem 203EB4 10
+;Power Circuit 
+player.additem 246B5C 10
+;Microsecond Regulator 
+player.additem 246B5F 10
+;Comm Relay
+player.additem 246B64 10
+;Zero Wire 
+player.additem 246B65 10
+;Zero-G Gimbal 
+player.additem 246B66 10
+;Tau Grade Rheostat 
+player.additem 246B68 10
+;Supercooled Magnet 
+player.additem 246B69 10
+;Adaptive Frame 
+player.additem 246B6A 10
+;Sterile Nanotubes 
+player.additem 246B6C 10
+;Semimetal Wafer 
+player.additem 246B6D 10
+;Reactive Gauge 
+player.additem 246B6F 10
+;Mag Pressure Tank 
+player.additem 246B70 10
+;Positron Battery 
+player.additem 246B71 10
+;Polytextile 
+player.additem 246B72 10
+;Paramagnon Conductor
+player.additem 246B73 10
+;Monopropellant 
+player.additem 246B74 10
+;Molecular Sieve 
+player.additem 246B75 10
+;Isotopic Coolant 
+player.additem 246B76 10
+;Isocentered Magnet 
+player.additem 246B77 10
+;Nuclear Fuel Rod
+player.additem 246B79 10
+;Control Rod
+player.additem 246B7B 10
+;Austenitic Manifold 
+player.additem 246B7C 10
+;Chunks Cola
+player.additem 249C52 10
+;Coffee Bag
+player.additem 25B0Fb 10
+;Mercury
+player.additem 27C4A1 10
+;Trauma Pack
+player.additem 29A847 10
+;Infantry Alpha
+player.additem 29A85C 10
+;Synthameat Turkey
+player.additem 29A861 10
+;Liquor
+player.additem 29B04F 10
+;CQB-X
+player.additem 29A85E 10
+;Heart+
+player.additem 29CAD9 10
+;Metabolic Agent 
+player.additem 29F3FC 10
+;Pigment 
+player.additem 29F400 10
+;Hypercatalyst 
+player.additem 29F40D 10
+;Battlestim
+player.additem 2A5024 10
+;Squall
+player.additem 2A9DE7 10
+;Emergency Kit
+player.additem 2A9DE8 10
+;Synapse Alpha
+player.additem 2C5880 10
+;Hyppolyta
+player.additem 2C5883 10
+;Aurora
+player.additem 2C5884 10
+;Boom-Pop! Cola
+player.additem 2C71F5 10
+;Boom-Pop! Licorice
+player.additem 2C71F8 10
+;Beer
+player.additem 2C7217 10
+;Egg
+player.additem 2C7222 10
+;Red Harvest Rye
+player.additem 2C723C 10
+;Can-uck! Poutine
+player.additem 2C7231 10
+;Ramen
+player.additem 2C7240 10
+;Red Harvest Lentils
+player.additem 2C7241 10
+;Synthameat Chicken
+player.additem 2C7242 10
+;Synthameat Hamburger
+player.additem 2C7243 10
+;Synthameat Steak
+player.additem 2C7244 10
+;Synthameat Veal
+player.additem 2C7245 10
+;Synthameat Ham
+player.additem 2C7246 10
+;Butter
+player.additem 2C7C0A 10
+;Antibiotics
+player.additem 2F4436 10
+;Tranquilitea Sunray
+player.additem 3B7117 10
+
+
+;
+;player.additem  10
+;Don't mind me, I'm just here to get copied and pasted
